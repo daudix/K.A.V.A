@@ -30,7 +30,7 @@ while True:
 
     # Just printing the value of v to improve this piece of shi... code
 
-    print(v)
+    # print(v)
 
 
     # Light
