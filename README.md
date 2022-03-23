@@ -1,4 +1,4 @@
-K.A.V.A. ( *(https://github.com/karlstav/cava))*For keyboard)
+K.A.V.A. (C.A.V.A For keyboard)
 ====================
 
 **K**eyboard **A**udio **V**isu**A**liser
@@ -16,7 +16,7 @@ K.A.V.A. ( *(https://github.com/karlstav/cava))*For keyboard)
 ```kbdlight```
 
 ## Usage
-Just run the python script
+Run the python script
 ```console
 $ python3 kava.py
 ```
