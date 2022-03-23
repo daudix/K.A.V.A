@@ -1,4 +1,4 @@
-K.A.V.A. (C.A.V.A For keyboard)
+K.A.V.A (C.A.V.A For keyboard)
 ====================
 
 **K**eyboard **A**udio **V**isu**A**liser
