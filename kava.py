@@ -36,12 +36,12 @@ while True:
     # Light
 
     if modeselect == "l":
-        subprocess.run(f"kbdlight set {v}", shell=True)
+        subprocess.run(f"light -Srs sysfs/leds/smc::kbd_backlight {v}", shell=True)
 
     # Dark (Future feature)
 
     if modeselect == "d":
-        subprocess.run(f"kbdlight set {v}", shell=True)
+        subprocess.run(f"light -Srs sysfs/leds/smc::kbd_backlight {v}", shell=True)
 
 stream.stop_stream()
 stream.close()
