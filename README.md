@@ -29,10 +29,13 @@ It's Probably work only on mac, You need to see is there a supported keyboard ba
 ```console
 $ light -L
 ```
-Add line that contains something like: ```sysfs/leds/smc::kbd_backlight```
+Add line that contains something like:
+```sysfs/leds/smc::kbd_backlight```
 
-To kava.py, In line that contains: ```subprocess.run(f"light -Srs sysfs/leds/smc::kbd_backlight {v}", shell=True)```
+To kava.py, In line that contains:
+```subprocess.run(f"light -Srs sysfs/leds/smc::kbd_backlight {v}", shell=True)```
 
-Replacing This: ```sysfs/leds/smc::kbd_backlight```
+Replacing This:
+```sysfs/leds/smc::kbd_backlight```
 
 With your keyboard backlight identifier
