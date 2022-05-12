@@ -5,15 +5,17 @@ K.A.V.A (C.A.V.A For keyboard)
 
 ## Dependencies
 
-**Python dependencies**
-
 ```numpy```
 
 ```pyaudio```
 
-**Other**
+```light```
 
-```kbdlight```
+**Fedora:**
+
+```console
+$ sudo dnf install python3-numpy python3-pyaudio light
+```
 
 ## Usage
 Run the python script
