@@ -24,7 +24,7 @@ $ python3 kava.py
 ```
 
 ## !!!Warning!!!
-It's Probably work only on mac, You need to see is there a supported keyboard backlight by typing in Terminal:
+It's Probably work only on Mac, You need to see is there a supported keyboard backlight by typing in Terminal:
 
 ```console
 $ light -L
