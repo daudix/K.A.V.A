@@ -1,3 +1,6 @@
+> **Warning**
+> This repository has been moved to [Codeberg](https://codeberg.org/daudix-UFO/K.A.V.A), all future work will continue there.
+
 K.A.V.A (C.A.V.A For keyboard)
 ====================
 
